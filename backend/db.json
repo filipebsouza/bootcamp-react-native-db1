@@ -1,0 +1,214 @@
+{
+    "dancers": [
+        {
+            "id": 1,
+            "name": "Batman",
+            "description": "Faço freela de streetdance enquanto não patrulho as ruas de Gothan.",
+            "superpowers": [
+                1
+            ],
+            "team": 1,
+            "e-mail": "batman@justiceleague.com",
+            "image": "https://photos.app.goo.gl/6b7DyufRkXpGxEF58"
+        },
+        {
+            "id": 2,
+            "name": "Capitão América",
+            "description": "Fiquei muito tempo congelado, mas ainda sei dançar uma boa valsa.",
+            "superpowers": [
+                2,
+                3,
+                4
+            ],
+            "team": 2,
+            "e-mail": "captain@america.com",
+            "image": "https://photos.app.goo.gl/3SeSy7Wwm1kG13Br7"
+        },
+        {
+            "id": 3,
+            "name": "Fofão",
+            "description": "Faço a alegria da criançada dos anos 80. Meu boneco tem uma faca dentro.",
+            "superpowers": [
+                5
+            ],
+            "team": 3,
+            "e-mail": "fofao@sbt.com.br",
+            "image": "https://photos.app.goo.gl/kQ4RSri3QHvJsUfW6"
+        },
+        {
+            "id": 4,
+            "name": "Homem de Ferro",
+            "description": "Eu privatizei a paz mundial.",
+            "superpowers": [
+                1
+            ],
+            "team": 2,
+            "e-mail": "stark@starkindustries.com",
+            "image": "https://photos.app.goo.gl/qzz7NJzEd5R8ydsp7"
+        },
+        {
+            "id": 5,
+            "name": "Mickey",
+            "description": "Eu sou o Mickey Mouse.",
+            "superpowers": [
+                1,
+                5
+            ],
+            "team": 3,
+            "e-mail": "mickey@disney.com",
+            "image": "https://photos.app.goo.gl/p77vHpYvSCM64xav9"
+        },
+        {
+            "id": 6,
+            "name": "Pikachu",
+            "description": "Pika Pika.",
+            "superpowers": [
+                1,
+                5,
+                6,
+                7
+            ],
+            "team": 3,
+            "e-mail": null,
+            "image": "https://photos.app.goo.gl/gbVXa7MFT1UnTuEJ6"
+        },
+        {
+            "id": 7,
+            "name": "Ravena",
+            "description": "Entre uma luto ou outra contra o Slade posso dançar um pouco.",
+            "superpowers": [
+                8,
+                9,
+                10
+            ],
+            "team": 4,
+            "e-mail": "ravena@teentitans.com",
+            "image": "https://photos.app.goo.gl/GgKo5YC4bwq6E61w8"
+        },
+        {
+            "id": 8,
+            "name": "Vampira",
+            "description": "Eu gosto de dançar, só não posso dançar acompanhada de alguém. :(",
+            "superpowers": [
+                11
+            ],
+            "team": 5,
+            "e-mail": "rogue@xmen.com",
+            "image": "https://photos.app.goo.gl/Bhm4a6SsxGhYyi1MA"
+        },
+        {
+            "id": 9,
+            "name": "Mulher Maravilha",
+            "description": "Sempre dançamos na terra das Amazonas.",
+            "superpowers": [
+                3,
+                4,
+                12
+            ],
+            "team": 1,
+            "e-mail": "wonderwoman@justiceleague.com",
+            "image": "https://photos.app.goo.gl/bEZp6XGFZtTk63Lr5"
+        },
+        {
+            "id": 10,
+            "name": "Luke Cage",
+            "description": "Minha série é mais ou menos, mas posso dançar um soul tranquilamente.",
+            "superpowers": [
+                3,                
+                12
+            ],
+            "team": 2,
+            "e-mail": "luke@avengers.com",
+            "image": "https://photos.app.goo.gl/DpHbW8EygMawTafE8"
+        }
+    ],
+    "superpowers": [
+        {
+            "id": 1,
+            "name": "Dinheiro",
+            "description": "Compra qualquer coisa."
+        },
+        {
+            "id": 2,
+            "name": "Força sobrehumana",
+            "description": "Sou mais forte que dez soldados juntos."
+        },
+        {
+            "id": 3,
+            "name": "Resistência",
+            "description": "Não aguento uma bomba atômica mas posso tomar um soco do Thor e continuar vivo."
+        },
+        {
+            "id": 4,
+            "name": "Agilidade",
+            "description": "Corro mais rápido que um ser humano normal."
+        },
+        {
+            "id": 5,
+            "name": "Alegria",
+            "description": "Todo mundo pode rir."
+        },
+        {
+            "id": 6,
+            "name": "Choque do Trovão",
+            "description": "Pikachuuuuu!"
+        },
+        {
+            "id": 7,
+            "name": "Falar a língua dos pokemons",
+            "description": "Falar a língua dos pokemons."
+        },
+        {
+            "id": 8,
+            "name": "Telecinese",
+            "description": "Telecinese."
+        },
+        {
+            "id": 9,
+            "name": "Campos de Força",
+            "description": "Campos de Força."
+        },
+        {
+            "id": 10,
+            "name": "Teletransporte",
+            "description": "Teletransporte."
+        },
+        {
+            "id": 11,
+            "name": "Copiar poderes",
+            "description": "Não deixe eu te tocar."
+        },
+        {
+            "id": 12,
+            "name": "Super força",
+            "description": "Consigo tirar um X 1 com o Hulk."
+        }
+    ],
+    "teams": [
+        {
+            "id": 1,
+            "name": "Liga da Justiça",
+            "description": "Nosso desenho é ótimo, mas o filme nem tanto."
+        },
+        {
+            "id": 2,
+            "name": "Vingadores",
+            "description": "Melhor equipe de super hérois do cinema."
+        },
+        {
+            "id": 3,
+            "name": "Heróis da TV",
+            "description": "Acorda mais cedo que hoje tem desenho."
+        },
+        {
+            "id": 4,
+            "name": "Teen Titans",
+            "description": "Nosso desenho é ótimo, agora o filme não sei opinar."
+        },
+        {
+            "id": 5,
+            "name": "X-Men",
+            "description": "Somos melhores que os Vingadores."
+        }
+    ]
+}
