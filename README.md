@@ -19,7 +19,7 @@ Neste mini bootcamp, utilizaremoa React Native para desenvolver uma aplicação 
 
 ## Desafio bônus:
 
-#### 1. No cadastro de dançarino, implementar a adição de múltiplos super poderes.
+#### 1. No cadastro de dançarino, implementar a adição de múltiplos super poderes
 
 ## Pré-requisitos:
 
