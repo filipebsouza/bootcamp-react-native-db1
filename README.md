@@ -44,5 +44,8 @@ obs: após finaizar a execuço, pode fechar o terminal
 
 #### Rodar o projeto
 Abrir o terminal na raiz do projeto e rodar o seguinte comando: ```` npm start ````
+
+#### Faça seu primeiro Hello World!
+Agora é só seguir [esse tutorial que montamos](https://www.notion.so/Hello-World-Com-React-Native-b8a3e1093a0742b7ba6fc7f06d56ce25) e fazer  primeiro Hello World!
         
 
