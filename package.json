@@ -1,0 +1,24 @@
+{
+  "name": "bootcamp-react-native-db1",
+  "version": "1.0.0",
+  "description": "- Pré-requisitos:",
+  "main": "index.js",
+  "scripts": {
+    "start-backend": "json-server .\/backend\/db.json",
+    "start-frontend": "expo start .\/mobile\/dancer-app",
+    "start": "concurrently \"npm run start-backend\" \"npm run start-frontend\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipebsouza/bootcamp-react-native-db1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filipebsouza/bootcamp-react-native-db1/issues"
+  },
+  "homepage": "https://github.com/filipebsouza/bootcamp-react-native-db1#readme",
+  "devDependencies": {
+    "concurrently": "^5.0.2"
+  }
+}
