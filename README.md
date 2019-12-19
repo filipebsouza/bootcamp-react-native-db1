@@ -1,6 +1,6 @@
 # Carreta Dancer 
 
-Neste mini bootcamp, utilizaremoa React Native para desenvolver uma aplicação para contratar seu time favorito de heróis para dar um show na hora e lugar que escolher. 
+Neste mini bootcamp, utilizaremos React Native para desenvolver uma aplicação para contratar seu time favorito de heróis para dar um show na hora e lugar que escolher. 
 
 ## Juntos implementaremos:
 
