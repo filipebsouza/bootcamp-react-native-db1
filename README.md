@@ -34,10 +34,15 @@ Neste mini bootcamp, utilizaremoa React Native para desenvolver uma aplicação 
 
 ```` npm install -g json-server ````
 
-## Rodar o Backend:
+## Passos iniciais:
 
-#### Rode o seguinte comando na raiz do projeto:
 
-```` json-server .\backend\db.json ````
+#### Instalar dependências
+Abrir o terminal na pasta 'dancer-app' e rodar o seguinte comando: ```` npm install ````
+
+obs: após finaizar a execuço, pode fechar o terminal
+
+#### Rodar o projeto
+Abrir o terminal na raiz do projeto e rodar o seguinte comando: ```` npm start ````
         
 
